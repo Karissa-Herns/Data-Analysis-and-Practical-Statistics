@@ -1,4 +1,4 @@
-# Data-Analysis-and-Practical-Statistics
+# Investigate-a-Data-Set
+In this project, the TMDB-Movies dataset was used to investigate movie data.
 
-This was my first course with Udacity. 
-There were two projects for this course. The first investigated the movies dataset and answered one or more questions. The dataset was from Kaggle.com
+The dataset contains data that was sourced from Kaggle.com. I was tasked with performing an analysis that answered at least one business question. 
